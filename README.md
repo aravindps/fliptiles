@@ -2,11 +2,11 @@
 
 * It is sample flip tile game to try out a Object Design and patterns
 
+## Rule:
 
-Rule:
- * N x N grid
- * Click a tile will toggle the state of itself and the tiles to the N, W, E and S
- * When there is no tile checked the game is won
+* N x N grid
+* Click a tile will toggle the state of itself and the tiles to the N, W, E and S
+* When there is no tile checked the game is won
 
 
 Eg: click on tile
